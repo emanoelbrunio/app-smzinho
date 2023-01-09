@@ -11,8 +11,7 @@ Foi feito um protótipo de alta fidelidade na ferramente de prototipação Figma
 <hr>
 
 ## Vídeo demonstrativo
-<a href="https://youtube.com/shorts/XlD9k2aAJUs?feature=share" target="_blank">Clique aqui</a> para ver o vídeo demonstrativo do aplicativo ou copie e cole o link no seu navegador: https://youtube.com/shorts/XlD9k2aAJUs?feature=share
-
+<a href="https://vm.tiktok.com/ZMFKEvVca/" target="_blank">Clique aqui</a> para ver o vídeo demonstrativo do aplicativo ou copie e cole o link no seu navegador: https://vm.tiktok.com/ZMFKEvVca/
 <hr>
 
 ## Colaboradores
